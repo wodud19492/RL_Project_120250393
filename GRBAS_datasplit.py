@@ -1,9 +1,8 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("GRBAS_dataset.csv")  # 네가 만든 CSV
+df = pd.read_csv("GRBAS_dataset.csv")
 
-# patient 단위로 split
 patients = df["patient_ID"].unique()
 np.random.seed(42)
 np.random.shuffle(patients)
@@ -11,7 +10,6 @@ np.random.shuffle(patients)
 n = len(patients)
 n_train = int(0.7 * n)
 n_val   = int(0.15 * n)
-# 나머지는 test
 
 train_pat = patients[:n_train]
 val_pat   = patients[n_train:n_train+n_val]
