@@ -1,0 +1,7 @@
+patient_ID,vowel_label,wav_path,SLP1_G,SLP1_R,SLP1_B,SLP1_A,SLP1_S,SLP2_G,SLP2_R,SLP2_B,SLP2_A,SLP2_S,SLP3_G,SLP3_R,SLP3_B,SLP3_A,SLP3_S,SLPall_G,SLPall_R,SLPall_B,SLPall_A,SLPall_S
+KNUDN074,1,./input/sample_audio/KNUDN074_001_1.wav,5,4,5,5,5,4,4,4,4,4,4,4,4,4,4,4.333,4.0,4.333,4.333,4.333
+KNUDN074,7,./input/sample_audio/KNUDN074_007_1.wav,5,4,5,5,5,4,4,4,4,4,4,4,4,4,4,4.333,4.0,4.333,4.333,4.333
+KNUDN074,8,./input/sample_audio/KNUDN074_008_1.wav,5,4,5,5,5,4,4,4,4,4,4,4,4,4,4,4.333,4.0,4.333,4.333,4.333
+KNUDN081,1,./input/sample_audio/KNUDN081_001_1.wav,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5.0,4.667,5.0,5.0,5.0
+KNUDN081,7,./input/sample_audio/KNUDN081_007_1.wav,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5.0,4.667,5.0,5.0,5.0
+KNUDN081,8,./input/sample_audio/KNUDN081_008_1.wav,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5.0,4.667,5.0,5.0,5.0

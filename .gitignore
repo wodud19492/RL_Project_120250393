@@ -221,5 +221,7 @@ results_crnn_3vowel2
 results_crnn_vis
 results_crnn_vis2
 results_rlcam
-
+results_test_final
+results_test_final2
+results2
 .pt
