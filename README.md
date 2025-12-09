@@ -19,5 +19,4 @@
     python Inference.py
 
 ## PPT
-
-    [Download](https://github.com/wodud19492/RL-Project_120250393/blob/main/RL_Project_120250393.pptx)
+[Download](https://github.com/wodud19492/RL-Project_120250393/blob/main/RL_Project_120250393.pptx)
